@@ -9,6 +9,7 @@ Adblocker and self service DNS
   - MicroSD storage for flashing the OS on
   - a case for the pi to prevent damage
   - thermal paste for the heat sinks 
+
 I had an HDMI cable, a mouse, and a keyboard on site, but I ended up going to walmart to get a microsd card and amazon had a cute little nintendo NES shaped case for it I knew I had to have.  My laptop had an SD slot so I didn't need a card reader thankfully.  Once I had all the required components I needed assembly was fairly straightforward.  The pi bolted into the case via 4 small screws, and to engage the fan that came with the case I needed to put the connectors on the correct pins according to the instructions shipped with the case.  There were also two small heat sinks that needed thermal paste to apply them to the QFPs/BGAs.
   
 # Software
