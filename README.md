@@ -13,7 +13,7 @@ Adblocker and self service DNS
 I had an HDMI cable, a mouse, and a keyboard on site, but I ended up going to walmart to get a microsd card and amazon had a cute little nintendo NES shaped case for it I knew I had to have.  My laptop had an SD slot so I didn't need a card reader thankfully.  Once I had all the required components I needed assembly was fairly straightforward.  The pi bolted into the case via 4 small screws, and to engage the fan that came with the case I needed to put the connectors on the correct pins according to the instructions shipped with the case.  There were also two small heat sinks that needed thermal paste to apply them to the QFPs/BGAs.
   
 # Software
-Checking the Pi-hole documentation website, they recommended ubuntu as the OS so I installed that on my microSD card.  After installing it, I transferred it over to the pi and booted it up for the first time.  
+Checking the Pi-hole documentation website, they recommended ubuntu as the OS so I installed that on my microSD card.  After installing it I transferred it over to the pi and booted it up for the first time.  Next I updated the OS to the latest version.  Then I installed the pi hole software.
 
 # Configuration
 Issues I had
