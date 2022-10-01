@@ -16,4 +16,4 @@ I had an HDMI cable, a mouse, and a keyboard on site, but I ended up going to wa
 Checking the Pi-hole documentation website, they recommended ubuntu as the OS so I installed that on my microSD card.  After installing it I transferred it over to the pi and booted it up for the first time.  Next I updated the OS to the latest version.  Then I installed the pi hole software.
 
 # Configuration
-Issues I had
+I had to identify all the devices on my network to figure out which one the pi was.  From there I could assign the pi a static IP so that if either the network or the pi went down it wouldn't disrupt the services.  I did that by searching the mac addresses of all the devices, and they were all pretty straightforward except for two which were unlisted.  This isn't specifically related to the pi but rather to organizing my network.  So my task now is to monitor the network traffic and see what comes and goes from them.
